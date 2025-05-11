@@ -77,9 +77,6 @@ Content-Type: application/json
 ```
 movies-api/
 ├── main.go
-├── handlers/
-├── models/
-├── routes/
 └── README.md
 ```
 
